@@ -7,9 +7,9 @@ Time spent: **8** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a random character from the Game of Thrones API")**
+**Random Pokemon** is an android app that **fgenerates random facts about a pokemon**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🤨❓🫠**
 
 ## Application Features
 
@@ -31,7 +31,7 @@ The following EXTRA features are implemented:
 
 ## API Choice
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **PokeAPI**.
 
 ## Video Demo
 
